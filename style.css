@@ -4,11 +4,27 @@ body{
   width: auto;
 }
 h1 { background-color: #B0B8B4FF;
+  width: auto;
+  font-family:serif;
 }
-p{font-family: Georgia,serif;}
-ul{
-
+p{font-family: Georgia,serif;
+  text-align: left;
+}
+ul{list-style-type:circle;
 }
 a:visited{ color: purple;
 }
-a:hover{color: lightblue;}
+a:hover{color: lightgreen;
+}
+a:default{color: lightblue;
+}
+img{margin-left: auto;
+}
+.One{
+  float: left;
+  width: auto;
+}
+.Two{
+  float: right;
+  width: auto;
+}
