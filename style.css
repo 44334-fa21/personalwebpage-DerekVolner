@@ -1,1 +1,14 @@
 /*Personal Web Page Style Sheet */
+body{
+  background-color: #FC766AFF;
+  width: auto;
+}
+h1 { background-color: #B0B8B4FF;
+}
+p{font-family: Georgia,serif;}
+ul{
+
+}
+a:visited{ color: purple;
+}
+a:hover{color: lightblue;}
